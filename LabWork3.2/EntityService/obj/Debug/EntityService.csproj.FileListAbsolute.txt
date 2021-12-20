@@ -1,0 +1,11 @@
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\obj\Debug\EntityService.csproj.CoreCompileInputs.cache
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\obj\Debug\EntityService.csprojAssemblyReference.cache
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\bin\Debug\EntityService.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\bin\Debug\EntityService.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\bin\Debug\EntityService.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\bin\Debug\DAL.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\bin\Debug\DAL.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\bin\Debug\DAL.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\obj\Debug\EntityService.csproj.CopyComplete
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\obj\Debug\EntityService.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\EntityService\obj\Debug\EntityService.pdb

@@ -1,0 +1,7 @@
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\bin\Debug\DAL.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\bin\Debug\DAL.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\bin\Debug\DAL.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\obj\Debug\DAL.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\DLL\obj\Debug\DAL.pdb

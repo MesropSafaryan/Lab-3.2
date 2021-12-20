@@ -1,0 +1,17 @@
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\MainMenu.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\MainMenu.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\MainMenu.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\BLL.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\DAL.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\EntityService.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\BLL.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\BLL.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\DAL.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\DAL.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\EntityService.pdb
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\bin\Debug\EntityService.dll.config
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\obj\Debug\MainMenu.csprojAssemblyReference.cache
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\obj\Debug\MainMenu.csproj.CopyComplete
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\obj\Debug\MainMenu.dll
+D:\vs project\LabWorkNo3Pt2\LabWork3.2\MainMenu\obj\Debug\MainMenu.pdb

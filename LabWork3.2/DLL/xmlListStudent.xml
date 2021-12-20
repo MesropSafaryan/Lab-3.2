@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>wqedf</Name>
+    <Surname>werfgh</Surname>
+    <IdentificationCode>1234567890</IdentificationCode>
+    <Sex>чоловіча</Sex>
+    <Coocking>ні</Coocking>
+    <Course>6</Course>
+    <StudentID>ВА12345678</StudentID>
+    <AverageMark>4</AverageMark>
+  </Student>
+</ArrayOfStudent>
